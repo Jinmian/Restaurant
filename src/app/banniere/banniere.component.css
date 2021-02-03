@@ -1,0 +1,6 @@
+.jumbotron {
+background-image:
+url('../../assets/img/bannieresushi.jpg');
+background-size: cover;
+min-height: 380px;
+}
