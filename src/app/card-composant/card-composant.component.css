@@ -1,0 +1,5 @@
+.card {
+  margin: 5px; /* Espace entre les cards */
+  float: none; /* Added */
+  /*margin-bottom: 10px; /* Added */
+}
