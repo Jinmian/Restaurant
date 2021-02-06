@@ -1,6 +1,15 @@
 .jumbotron {
 background-image:
-url('../../assets/img/bannieresushi.jpg');
+url('../../assets/img/maki.png');
 background-size: cover;
 min-height: 380px;
 }
+.titre{
+  background-color: wheat;
+  margin-left: 550px;
+  margin-right: 550px;
+}
+.text-specialite{
+  margin-bottom : 5px ;
+}
+

@@ -1,11 +1,29 @@
 .navbar{
   justify-content: left;
   height: 80px;
-  background-color: #b0b1bc;
+  background-color: #ffb366;
 }
-a{
+
+.accueil{
   margin: 15px;
   font-size: 18px;
-  color: blueviolet;
+  color: black;
   float: none ;
+}
+.menu{
+  margin: 15px;
+  font-size: 18px;
+  color: black;
+  float: none ;
+}
+.contact{
+  margin: 15px;
+  font-size: 18px;
+  color: black;
+  float: none ;
+}
+.btn{
+  font-style: oblique;
+  float: right;
+  margin-left: 75%;
 }
