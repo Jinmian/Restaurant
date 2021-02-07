@@ -8,6 +8,8 @@ import { BanniereComponent } from './banniere/banniere.component';
 import { CardComposantComponent } from './card-composant/card-composant.component';
 import { PresentationComponent } from './presentation/presentation.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { GmapComponent } from './gmap/gmap.component';
+import { HoraireComponent } from './horaire/horaire.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { NavbarComponent } from './navbar/navbar.component';
     BanniereComponent,
     CardComposantComponent,
     PresentationComponent,
-    NavbarComponent
+    NavbarComponent,
+    GmapComponent,
+    HoraireComponent
   ],
   imports: [
     BrowserModule,
