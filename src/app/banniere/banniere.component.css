@@ -1,15 +1,18 @@
 .jumbotron {
 background-image:
-url('../../assets/img/maki.png');
+url('../../assets/img/maki2.png');
 background-size: cover;
-min-height: 380px;
+min-height: 350px;
+max-width : 100%;
+/*height: auto;*/
+display: block;
+margin-top: 50px;
 }
 .titre{
-  background-color: wheat;
-  margin-left: 550px;
-  margin-right: 550px;
+  /*background-color: wheat;*/
+  color: black;
+  display: block;
+  margin: 0 auto;
 }
-.text-specialite{
-  margin-bottom : 5px ;
-}
+
 
