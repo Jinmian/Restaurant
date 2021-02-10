@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Menu traiteur",
+    "description": "Riz cantonais + plat au choix + boisson",
+    "price": "11€"
+  },
+  {
+    "id": 2,
+    "name": "Menu vapeur",
+    "description": "Composition de 10 vapeurs aux choix",
+    "price": "12€"
+  },
+  {
+    "id": 3,
+    "name": "Menu traiteur",
+    "description": "Riz cantonais + plat au choix + boisson",
+    "price": "11€"
+  },
+  {
+    "id": 4,
+    "name": "Menu traiteur",
+    "description": "Riz cantonais + plat au choix + boisson",
+    "price": "11€"
+  },
+  {
+    "id": 5,
+    "name": "Menu traiteur",
+    "description": "Riz cantonais + plat au choix + boisson",
+    "price": "11€"
+  }
+]

@@ -6,9 +6,11 @@
   }*/
 
   .map-container iframe{
-  margin-left: 25%;
+  /*margin-left: 25%;*/
   margin-top: auto;
   height:50%;
   width:50%;
-  position:absolute;
+  /*position:absolute;*/
+  display: block;
+  margin: 0 auto;
   }
