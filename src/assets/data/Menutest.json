@@ -13,20 +13,20 @@
   },
   {
     "id": 3,
-    "name": "Menu traiteur",
-    "description": "Riz cantonais + plat au choix + boisson",
+    "name": "Menu brochette",
+    "description": "Soupe + salade + riz + 5 brochettes",
     "price": "11€"
   },
   {
     "id": 4,
-    "name": "Menu traiteur",
-    "description": "Riz cantonais + plat au choix + boisson",
-    "price": "11€"
+    "name": "Menu maki",
+    "description": "Soupe + salade + 6 maki saumon + 6 california saumon",
+    "price": "12€"
   },
   {
     "id": 5,
-    "name": "Menu traiteur",
-    "description": "Riz cantonais + plat au choix + boisson",
-    "price": "11€"
+    "name": "Menu sashimi",
+    "description": "Soupe + salade + riz + 10 assortiments de sashimi",
+    "price": "17€"
   }
 ]

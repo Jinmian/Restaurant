@@ -10,6 +10,9 @@ import { PresentationComponent } from './presentation/presentation.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { GmapComponent } from './gmap/gmap.component';
 import { HoraireComponent } from './horaire/horaire.component';
+import { FooterComponent } from './footer/footer.component';
+import { MenuComponent } from './menu/menu.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { HoraireComponent } from './horaire/horaire.component';
     PresentationComponent,
     NavbarComponent,
     GmapComponent,
-    HoraireComponent
+    HoraireComponent,
+    FooterComponent,
+    MenuComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

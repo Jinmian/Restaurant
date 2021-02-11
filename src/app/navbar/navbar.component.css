@@ -3,40 +3,11 @@
   /*height: 80px;*/
   background-color: #ffb366;
 }
-
-/*.accueil{
-  margin: auto;
-  font-size: 18px;
-  color: black;
-  float: none ;
-}
-.menu{
-  margin: auto;
-  font-size: 18px;
-  color: black;
-  float: none ;
-}
-.contact{
-  margin: auto;
-  font-size: 18px;
-  color: black;
-  float: none ;
-}*/
-/*.btn{
-  font-style: oblique;
-  float: right;
-  margin-left: 75%;
-}*/
 .btn{
   font-style: oblique;
   display: inline-block;
   margin-left: auto;
 }
-
-/*.option a{
-  display: inline-block;
-  padding: 5px;
-}*/
 
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -57,7 +28,7 @@
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: hsla(184, 100%, 28%, 0.89);
   color: white;
 }
 

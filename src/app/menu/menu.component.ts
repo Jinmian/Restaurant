@@ -1,4 +1,3 @@
-
 import { Component, OnInit } from '@angular/core';
 import menuData from '../../assets/data/Menutest.json';
 
@@ -10,13 +9,12 @@ interface Menu {
 }
 
 @Component({
-  selector: 'app-presentation',
-  templateUrl: './presentation.component.html',
-  styleUrls: ['./presentation.component.css']
+  selector: 'app-menu',
+  templateUrl: './menu.component.html',
+  styleUrls: ['./menu.component.css']
 })
-export class PresentationComponent implements OnInit {
+export class MenuComponent implements OnInit {
   menus: Menu[] = menuData;
-
   constructor() { }
 
   ngOnInit(): void {
