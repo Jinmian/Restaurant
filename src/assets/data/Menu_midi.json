@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "MD1",
+    "description": "Riz blanc, 6 Maki saumon, 2 Brochettes de poulet",
+    "price": "9.50€"
+  },
+  {
+    "id": 2,
+    "name": "MD2",
+    "description": "Riz blanc, 3 Sushi saumon, 2 Brochettes de poulet",
+    "price": "9.50€"
+  },
+  {
+    "id": 3,
+    "name": "MD3",
+    "description": "6 California saumon avocat, 3 Sushi saumon",
+    "price": "9.50€"
+  },
+  {
+    "id": 4,
+    "name": "MD4",
+    "description": "6 Maki saumon, 6 Maki thon, 6 California saumon avocat",
+    "price": "11.50€"
+  },
+  {
+    "id": 5,
+    "name": "MD5",
+    "description": "6 California saumon avocat, 6 Oignon roll saumon avocat, 6 California thon cuit avocat",
+    "price": "12€"
+  },
+  {
+    "id": 6,
+    "name": "MD6",
+    "description": "6 Sushi saumon, 6 California saumon avocat",
+    "price": "11.90€"
+  },
+  {
+    "id": 7,
+    "name": "MD7",
+    "description": "6 Las Vegas, 6 California saumon avocat",
+    "price": "12€"
+  }
+]

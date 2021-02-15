@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "A1",
+    "description": "2 Boeufs , 2 Boeufs aux formages",
+    "price": "7.50€"
+  },
+  {
+    "id": 2,
+    "name": "A2",
+    "description": "4 Boeufs aux fromages",
+    "price": "8.00"
+  },
+  {
+    "id": 3,
+    "name": "A3",
+    "description": "2 Saumons, 2 Thons",
+    "price": "9.50€"
+  },
+  {
+    "id": 4,
+    "name": "A4",
+    "description": "2 Poulets, 2 Boulettes de poulet, 1 Boeuf au fromage",
+    "price": "10.00€"
+  },
+  {
+    "id": 5,
+    "name": "A5",
+    "description": "2 Poulets, 3 Boeufs aux fromages",
+    "price": "9.00€"
+  }
+]

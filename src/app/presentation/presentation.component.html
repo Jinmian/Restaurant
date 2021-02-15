@@ -59,19 +59,37 @@
       <table class="table table-striped">
         <thead>
           <tr>
-            <th>Menu</th>
+            <th>Menu Midi</th>
             <th></th>
             <th></th>
           </tr>
         </thead>
 
         <tbody>
-          <tr *ngFor="let menu of menus">
-            <td>{{ menu.name }}</td>
-            <td>{{ menu.description }}</td>
-            <td>{{ menu.price }}</td>
+          <tr *ngFor="let menu_m of menu_midi">
+            <td>{{ menu_m.name }}</td>
+            <td>{{ menu_m.description }}</td>
+            <td>{{ menu_m.price }}</td>
           </tr>
         </tbody>
+
+        <thead>
+          <tr>
+            <th>Menu Brochette</th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let menu_b of menu_brochette">
+            <td>{{ menu_b.name }}</td>
+            <td>{{ menu_b.description }}</td>
+            <td>{{ menu_b.price }}</td>
+          </tr>
+        </tbody>
+
+
       </table>
     </div>
   </div>

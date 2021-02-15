@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import menuData from '../../assets/data/Menutest.json';
+import menuMidiData from '../../assets/data/Menu_midi.json';
+import menuBrochetteData from '../../assets/data/Menu_brochette.json';
 
 interface Menu {
   id: Number;
@@ -14,7 +15,8 @@ interface Menu {
   styleUrls: ['./menu.component.css']
 })
 export class MenuComponent implements OnInit {
-  menus: Menu[] = menuData;
+  menu_midi: Menu[] = menuMidiData;
+  menu_brochette: Menu[] = menuBrochetteData;
   constructor() { }
 
   ngOnInit(): void {

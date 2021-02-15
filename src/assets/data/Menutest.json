@@ -3,30 +3,28 @@
     "id": 1,
     "name": "Menu traiteur",
     "description": "Riz cantonais + plat au choix + boisson",
-    "price": "11€"
+    "price": "11€",
+    "image": "../imgtest/maki1.jpg"
   },
   {
     "id": 2,
     "name": "Menu vapeur",
     "description": "Composition de 10 vapeurs aux choix",
-    "price": "12€"
+    "price": "12€",
+    "image": "../imgtest/maki1.jpg"
   },
   {
     "id": 3,
     "name": "Menu brochette",
     "description": "Soupe + salade + riz + 5 brochettes",
-    "price": "11€"
+    "price": "11€",
+    "image": "../imgtest/maki1.jpg"
   },
   {
     "id": 4,
     "name": "Menu maki",
     "description": "Soupe + salade + 6 maki saumon + 6 california saumon",
-    "price": "12€"
-  },
-  {
-    "id": 5,
-    "name": "Menu sashimi",
-    "description": "Soupe + salade + riz + 10 assortiments de sashimi",
-    "price": "17€"
+    "price": "12€",
+    "image": "../imgtest/maki1.jpg"
   }
 ]
